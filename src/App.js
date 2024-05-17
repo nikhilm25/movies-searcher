@@ -23,7 +23,7 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1>Mumma ke liye movies</h1>
+      <h1>Movie Searcher</h1>
 
       <div className="search">
         <input
